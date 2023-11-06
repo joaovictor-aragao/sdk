@@ -1,2 +1,2 @@
-# SDK function to R
-Core functionality needed to improve statistical analysis
+# SDK [functions in R]
+Core functionalities needed to improve statistical consulting.
